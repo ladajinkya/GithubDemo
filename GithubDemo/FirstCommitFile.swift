@@ -9,4 +9,5 @@ import Foundation
 struct newCommit
 {
     var FCommit:String
+    var SCommit:String
 }
