@@ -10,4 +10,5 @@ struct newCommit
 {
     var FCommit:String
     var SCommit:String
+    var TCommit:String
 }
